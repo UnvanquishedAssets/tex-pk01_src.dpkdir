@@ -21,7 +21,7 @@ textures/shared_pk01/door01a_50
 	qer_editorImage     textures/shared_pk01_src/door01a_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.009 0.005 0.001
+	q3map_lightRGB      .009 .005 .001
 
 	diffuseMap          textures/shared_pk01_src/door01a_d
 	normalMap           textures/shared_pk01_src/door01_n
@@ -53,7 +53,7 @@ textures/shared_pk01/door01b_50
 	qer_editorImage     textures/shared_pk01_src/door01b_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.009 0.005 0.001
+	q3map_lightRGB      .009 .005 .001
 
 	diffuseMap          textures/shared_pk01_src/door01b_d
 	normalMap           textures/shared_pk01_src/door01_n
@@ -249,7 +249,7 @@ textures/shared_pk01/panel01a_50
 	qer_editorImage     textures/shared_pk01_src/panel01a_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.002 0.049 0.061
+	q3map_lightRGB      .002 .049 .061
 
 	diffuseMap          textures/shared_pk01_src/panel01a_d
 	normalMap           textures/shared_pk01_src/panel01_n
@@ -281,7 +281,7 @@ textures/shared_pk01/panel01b_50
 	qer_editorImage     textures/shared_pk01_src/panel01b_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.004 0.044 0.061
+	q3map_lightRGB      .004 .044 .061
 
 	diffuseMap          textures/shared_pk01_src/panel01b_d
 	normalMap           textures/shared_pk01_src/panel01_n
@@ -313,7 +313,7 @@ textures/shared_pk01/panel02_50
 	qer_editorImage     textures/shared_pk01_src/panel02_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.018 0.049 0.060
+	q3map_lightRGB      .018 .049 .06
 
 	diffuseMap          textures/shared_pk01_src/panel02_d
 	normalMap           textures/shared_pk01_src/panel02_n
@@ -345,7 +345,7 @@ textures/shared_pk01/panel03a_50
 	qer_editorImage     textures/shared_pk01_src/panel03a_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.015 0.044 0.057
+	q3map_lightRGB      .015 .044 .057
 
 	diffuseMap          textures/shared_pk01_src/panel03a_d
 	normalMap           textures/shared_pk01_src/panel03_n
@@ -377,7 +377,7 @@ textures/shared_pk01/panel03b_50
 	qer_editorImage     textures/shared_pk01_src/panel03b_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.013 0.039 0.056
+	q3map_lightRGB      .013 .039 .056
 
 	diffuseMap          textures/shared_pk01_src/panel03b_d
 	normalMap           textures/shared_pk01_src/panel03_n
@@ -409,7 +409,7 @@ textures/shared_pk01/panel_small01_50
 	qer_editorImage     textures/shared_pk01_src/panel_small01_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.014 0.050 0.068
+	q3map_lightRGB      .014 .050 .068
 
 	diffuseMap          textures/shared_pk01_src/panel_small01_d
 	normalMap           textures/shared_pk01_src/panel_small01_n
@@ -441,7 +441,7 @@ textures/shared_pk01/panel_small02_50
 	qer_editorImage     textures/shared_pk01_src/panel_small02_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.004 0.008 0.012
+	q3map_lightRGB      .004 .008 .012
 
 	diffuseMap          textures/shared_pk01_src/panel_small02_d
 	normalMap           textures/shared_pk01_src/panel_small02_n
@@ -545,7 +545,7 @@ textures/shared_pk01/trims01b_50
 	qer_editorImage     textures/shared_pk01_src/trims01b_d
 
 	q3map_surfacelight  50
-	q3map_lightRGB      0.070 0.064 0.047
+	q3map_lightRGB      .07 .064 .047
 
 	diffuseMap          textures/shared_pk01_src/trims01b_d
 	normalMap           textures/shared_pk01_src/trims01_n
